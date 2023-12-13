@@ -7,37 +7,38 @@ My script will remove all graphical and desktop environments and alot of unneces
 
 It also installs a few server-related packages.
 
-                   openssh-server  # SSH server
-                   fail2ban       # Intrusion prevention system
-                   ufw            # Uncomplicated Firewall
-                   htop           # System monitoring tool
-                   ntp            # Network Time Protocol
+  - openssh-server  SSH server
+  - fail2ban        Intrusion prevention system
+  - ufw             Uncomplicated Firewall
+  - htop            System monitoring tool
+  - ntp             Network Time Protocol
 
 
-This is a small summary of just a few packages that it removes.
-Removes Xorg Xserver and related packages
-Removes lightdm display manager
-Removes GNOME, XFCE, and KDE desktop environments (if installed)
-Removes color management related packages
-Removes documentation and help packages
-Removes Chromium-related packages
-Removes multimedia-related packages
-Removes Whoopsie packages
-Removes Thunderbird and related packages
-Removes printer drivers
-Removess LibreOffice styles and components
-Removes SANE and scanner-related packages
-Removes Totem and related packages
-Removes LibreOffice and related packages
-Removes TLP and related packages
-Removes system-config-printer and related packages
-Removes Geoclue and related packages
-Removes GeoIP and related packages
-Removes fonts packages
-Removes scanning and image processing packages
-Removes multimedia and Chromium packages
-Removes spell-checking and text-to-speech packages
-Removes Bluetooth and network management packages
+## This is a small summary of just a few packages that it removes.
+
+- Xorg Xserver and related packages
+- lightdm display manager
+- GNOME, XFCE, and KDE desktop environments (if installed)
+- Color management related packages
+- Documentation and help packages
+- Chromium-related packages
+- Multimedia-related packages
+- Whoopsie packages
+- Thunderbird and related packages
+- Printer drivers
+- LibreOffice styles and components
+- SANE and scanner-related packages
+- Totem and related packages
+- LibreOffice and related packages
+- TLP and related packages
+- system-config-printer and related packages
+- Geoclue and related packages
+- GeoIP and related packages
+- Fonts packages
+- Scanning and image processing packages
+- Multimedia and Chromium packages
+- Spell-checking and text-to-speech packages
+- Bluetooth and network management packages
 
 
 
