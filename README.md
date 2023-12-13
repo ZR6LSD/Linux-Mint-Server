@@ -3,10 +3,9 @@ My custom script to turn linux mint into a headless server.
 Do you want to turn into linux mint into a headless serve after installation? 
 Then this is the script for you.
 
-My script will remove all graphical and desktop environments and alot of unnecessary and unwanted files. 
-## My script removes lots of stuff! Don't just run it blindly! Review it before using it.
-
+My script will remove all graphical and desktop environments and alot of unnecessary and unwanted files.
 - ### My script needs to be run with sudo
+## My script removes lots of stuff! Don't just run it blindly! Review it before using it.
 
 It also installs a few server-related packages.
 
