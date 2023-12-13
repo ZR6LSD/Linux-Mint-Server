@@ -16,7 +16,7 @@ It also installs a few server-related packages.
   - ntp             Network Time Protocol
 
 
-## This is just a small summary of a few packages that it removes. There are many more.
+## This is just a small summary of the packages that it removes. There are many more.
 
 - Xorg Xserver and related packages
 - lightdm display manager
