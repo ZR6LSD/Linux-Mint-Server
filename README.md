@@ -71,6 +71,6 @@ Have fun with it! But keep in mind that I have not tested my scrips on every oth
 If you find this script helpful, then any small donations would be greatly appreciated, and would help towards me creating more content. 
 If you would like to help with a donation, you can do so via.
 
-Litecoin LTC: ```LMGEaMySbztMVftx6WJextU1WEQAEEnrR9```
+Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
   
 
