@@ -1,4 +1,4 @@
-# Linux-Mint-Server
+# Linux-Mint-Server Script
 My script turns Linux Mint into a headless server.
 Do you want to turn Linux Mint into a headless serve after installation? 
 Then this is the script for you.
