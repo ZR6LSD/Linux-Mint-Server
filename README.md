@@ -43,12 +43,12 @@ It also installs a few server-related packages.
 - Bluetooth and network management packages
 
   
-1 Just clone my repository.
-2 cd to /home/SDRplay
-3 Make the file MintServerSetup.sh executable with sudo chmod +x MintServerSetup.sh
-4 Run the script sudo ./MintServerSetup.sh
-5 Reboot
-6 Done
+1. Just clone my repository git clone https://github.com/ZR6LSD/Linux-Mint-Server.git
+2. cd to /home/Linux-Mint-Server
+3. Make the file MintServerSetup.sh executable with sudo chmod +x MintServerSetup.sh
+4. Run the script sudo ./MintServerSetup.sh
+5. Reboot
+6. Done
 
 
 
