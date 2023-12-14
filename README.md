@@ -5,7 +5,7 @@ Then this is the script for you.
 
 My script will remove all graphical and desktop environments and alot of unnecessary and unwanted files.
 
-- ### My script needs to be run with sudo
+- My script needs to be run with ### sudo
 
 ## My script removes lots of stuff! Don't just run it blindly! Review it before using it.
 
@@ -56,6 +56,9 @@ It also installs a few server-related packages.
 
 
 ## Help improve the script 
+
+Contributing
+If you would like to contribute to this project, please open an issue or create a pull request. Contributions are welcome!
 
 If you would like to help me improve my scripts. Feel free to contact me
 zr6lsd@gmail.com 
