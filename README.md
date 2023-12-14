@@ -72,3 +72,6 @@ If you find this script helpful, then any small donations would be greatly appre
 If you would like to help with a donation, you can do so via.
 
 Litecoin LTC: LMGEaMySbztMVftx6WJextU1WEQAEEnrR9
+   ```bash
+   git clone https://github.com/your-username/Linux-Mint-Server.git
+
