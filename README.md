@@ -5,7 +5,7 @@ Then this is the script for you.
 
 - My script will remove all graphical and desktop environments and alot of unnecessary and unwanted files.
 
-- My script needs to be run with ```**sudo**```
+- My script needs to be run with ```sudo```
 
 ## My script removes lots of stuff! Don't just run it blindly! Review it before using it.
 
