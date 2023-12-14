@@ -11,11 +11,11 @@ My script will remove all graphical and desktop environments and alot of unneces
 
 It also installs a few server-related packages.
 
-  - openssh-server     SSH server
-  - fail2ban           Intrusion prevention system
-  - ufw                Uncomplicated Firewall
-  - htop               System monitoring tool
-  - ntp                Network Time Protocol
+  - openssh-server   -  SSH server
+  - fail2ban         -  Intrusion prevention system
+  - ufw              -  Uncomplicated Firewall
+  - htop             -  System monitoring tool
+  - ntp              -  Network Time Protocol
 
 
 ## This is just a small summary of the packages that it removes. There are many more.
@@ -46,13 +46,12 @@ It also installs a few server-related packages.
 
  ## To use the script.
   
-1. Just clone my repository ```bash git clone https://github.com/ZR6LSD/Linux-Mint-Server.git
+1. Just clone my repository  git clone https://github.com/ZR6LSD/Linux-Mint-Server.git
 2. cd to /home/Linux-Mint-Server
 3. Make the file MintServerSetup.sh executable with sudo chmod +x MintServerSetup.sh
 4. Run the script sudo ./MintServerSetup.sh
 5. Reboot
 6. Done
-
 
 
 ## Help improve the script 
