@@ -56,7 +56,7 @@ It also installs a few server-related packages.
 
 ## Help improve the script 
 
-Contributing
+### Contributing
 If you would like to contribute to this project, please open an issue or create a pull request. Contributions are welcome!
 
 If you would like to help me improve my scripts. Feel free to contact me
