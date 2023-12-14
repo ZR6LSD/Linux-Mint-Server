@@ -4,7 +4,9 @@ Do you want to turn Linux Mint into a headless serve after installation?
 Then this is the script for you.
 
 My script will remove all graphical and desktop environments and alot of unnecessary and unwanted files.
+
 - ### My script needs to be run with sudo
+
 ## My script removes lots of stuff! Don't just run it blindly! Review it before using it.
 
 It also installs a few server-related packages.
@@ -44,7 +46,7 @@ It also installs a few server-related packages.
 
  ## To use the script.
   
-1. Just clone my repository. git clone https://github.com/ZR6LSD/Linux-Mint-Server.git
+1. Just clone my repository   git clone https://github.com/ZR6LSD/Linux-Mint-Server.git
 2. cd to /home/Linux-Mint-Server
 3. Make the file MintServerSetup.sh executable with sudo chmod +x MintServerSetup.sh
 4. Run the script sudo ./MintServerSetup.sh
